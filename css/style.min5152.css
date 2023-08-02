@@ -917,7 +917,10 @@ a.link-demo--visit {
   margin-bottom: 0;
 }
 .header .navbar-nav .nav-link {
-  font-family: "Kanit", sans-serif;
+  font-family: 'The Soul Of Vodka', sans-serif;
+  text-transform: uppercase;
+  font-size: 25px;
+  font-weight: 700;
   color: #222;
   margin-top: 0;
   padding: 10px 0px;
