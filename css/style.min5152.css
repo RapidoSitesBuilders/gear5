@@ -1074,7 +1074,7 @@ a.link-demo--visit {
   }
 }
 .section-hero__title {
-  margin-bottom: 5px;
+  margin-bottom: 25px;
 }
 @media (min-width: 768px) {
   .section-hero__title {
